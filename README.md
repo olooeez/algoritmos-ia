@@ -1,3 +1,5 @@
+[![test](https://github.com/olooeez/algoritmos-ia/actions/workflows/test.yml/badge.svg)](https://github.com/olooeez/algoritmos-ia/actions/workflows/test.yml)
+
 # algoritmos-ia
 
 Um repositório contendo todos os algoritmos que criei como parte da minha disciplina de Inteligência Artificial (SIN 323) usando Ruby e o Bundler. Explore e avalie as implementações dos algoritmos, suas funcionalidades e eficácia. Este projeto abrange uma variedade de algoritmos de IA, ideal para desenvolvedores que desejam aprender mais sobre IA e programação em Ruby.
