@@ -1,0 +1,18 @@
+# Configuração padrão
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+# Ruby
+[*.rb, Gemfile]
+indent_style = space
+indent_size = 2
+
+# Yaml
+[*.yml, .rspec]
+indent_style = space
+indent_size = 2
